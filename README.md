@@ -1,6 +1,6 @@
 # tasks
 
-A new Flutter project.
+An app to manage yours tasks
 
 ## Getting Started
 
